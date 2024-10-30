@@ -26,3 +26,8 @@ Supporting files:
 ## 🔧 Setup and Requirements
 
 - **Python Version**: 3.6.5
+
+## 🧠 Contributors
+- Annika Richter
+- Cornelius Wolff
+- Juri Moriße
